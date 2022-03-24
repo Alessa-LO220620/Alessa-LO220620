@@ -34,25 +34,18 @@
 
 ## 👩‍💻 &nbsp;Social Links
 
-<p align="left" style="background:pink">
-<a href="https://www.linkedin.com/in/alessandra-de-souza-295122199/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-AlessandraSouza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/soumeale" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-soumeale?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/lirio_da_ale.werk" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lirio_da_ale.werk?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href = "mailto:alessa.sossa@gmail.com"><img src="https://img.shields.io/badge/-Gmail?style=flat&logo=gmail" target="_blank"></a>
-</p>
+<div>
+ <a href="https://www.linkedin.com/in/alessandra-de-souza-295122199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/lirio_da_ale.werk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/soumeale" target="_blank"><img src="https://img.shields.io/badge/twitter-9146FF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alessa.sossa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+ 
+  ![Snake animation](https://github.com/Alessa-LO220620/Alessa-LO220620/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=soumeale&layout=wide&show_reply=off&show_retweet=off" />
 
- ![Snake animation](https://github.com/Alessa-LO220620/Alessa-LO220620/blob/output/github-contribution-grid-snake.svg)
 
 
 
