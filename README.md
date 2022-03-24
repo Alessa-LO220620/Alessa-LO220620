@@ -2,6 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alessandra Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alessa-LO220620&color=green" alt="Profile views" /> </p>
 
+<br><br>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
@@ -20,6 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
